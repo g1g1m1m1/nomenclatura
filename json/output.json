@@ -1,0 +1,664 @@
+{
+    "atomi": [
+        {
+            "simbolo": "Ac",
+            "nome": "Attinio",
+            "numeri di ossidazione": "3",
+            "tipo": "Attinoide"
+        },
+        {
+            "simbolo": "Al",
+            "nome": "Alluminio",
+            "numeri di ossidazione": "3",
+            "tipo": "Metallo di post-transizione"
+        },
+        {
+            "simbolo": "Am",
+            "nome": "Americio",
+            "numeri di ossidazione": "6, 5, 4, 3",
+            "tipo": "Attinoide"
+        },
+        {
+            "simbolo": "Sb",
+            "nome": "Antimonio",
+            "numeri di ossidazione": "+/-3, 5",
+            "tipo": "Semimetallo"
+        },
+        {
+            "simbolo": "Ar",
+            "nome": "Argon",
+            "numeri di ossidazione": "error",
+            "tipo": "Gas nobile"
+        },
+        {
+            "simbolo": "As",
+            "nome": "Arsenico",
+            "numeri di ossidazione": "+/-3, 5",
+            "tipo": "Semimetallo"
+        },
+        {
+            "simbolo": "At",
+            "nome": "Astato",
+            "numeri di ossidazione": "+/-1, 3, 5, 7",
+            "tipo": "Altro"
+        },
+        {
+            "simbolo": "Au",
+            "nome": "Oro",
+            "numeri di ossidazione": "3, 1",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "B",
+            "nome": "Boro",
+            "numeri di ossidazione": "3",
+            "tipo": "Semimetallo"
+        },
+        {
+            "simbolo": "Ba",
+            "nome": "Bario",
+            "numeri di ossidazione": "2",
+            "tipo": "Metallo alcalino-terroso"
+        },
+        {
+            "simbolo": "Be",
+            "nome": "Berillio",
+            "numeri di ossidazione": "2",
+            "tipo": "Metallo alcalino-terroso"
+        },
+        {
+            "simbolo": "Bh",
+            "nome": "Bohrio",
+            "numeri di ossidazione": "error",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Bi",
+            "nome": "Bismuto",
+            "numeri di ossidazione": "3, 5",
+            "tipo": "Metallo di post-transizione"
+        },
+        {
+            "simbolo": "Bk",
+            "nome": "Berkelio",
+            "numeri di ossidazione": "4, 3",
+            "tipo": "Attinoide"
+        },
+        {
+            "simbolo": "Br",
+            "nome": "Bromo",
+            "numeri di ossidazione": "+/-1, 5",
+            "tipo": "Altro"
+        },
+        {
+            "simbolo": "C",
+            "nome": "Carbonio",
+            "numeri di ossidazione": "+/-4, 2",
+            "tipo": "Altro"
+        },
+        {
+            "simbolo": "Ca",
+            "nome": "Calcio",
+            "numeri di ossidazione": "2",
+            "tipo": "Metallo alcalino-terroso"
+        },
+        {
+            "simbolo": "Cd",
+            "nome": "Cadmio",
+            "numeri di ossidazione": "2",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Ce",
+            "nome": "Cerio",
+            "numeri di ossidazione": "3, 4",
+            "tipo": "Lantanoide"
+        },
+        {
+            "simbolo": "Cf",
+            "nome": "Californio",
+            "numeri di ossidazione": "3",
+            "tipo": "Attinoide"
+        },
+        {
+            "simbolo": "Cl",
+            "nome": "Cloro",
+            "numeri di ossidazione": "+/-1, 3, 5, 7",
+            "tipo": "Altro"
+        },
+        {
+            "simbolo": "Cm",
+            "nome": "Curio",
+            "numeri di ossidazione": "3",
+            "tipo": "Attinoide"
+        },
+        {
+            "simbolo": "Co",
+            "nome": "Cobalto",
+            "numeri di ossidazione": "2, 3",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Cr",
+            "nome": "Cromo",
+            "numeri di ossidazione": "6, 3, 2",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Cs",
+            "nome": "Cesio",
+            "numeri di ossidazione": "1",
+            "tipo": "Metallo alcalino"
+        },
+        {
+            "simbolo": "Cu",
+            "nome": "Rame",
+            "numeri di ossidazione": "2, 1",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Db",
+            "nome": "Dubnio",
+            "numeri di ossidazione": "error",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Dy",
+            "nome": "Disprosio",
+            "numeri di ossidazione": "3",
+            "tipo": "Lantanoide"
+        },
+        {
+            "simbolo": "Er",
+            "nome": "Erbio",
+            "numeri di ossidazione": "3",
+            "tipo": "Lantanoide"
+        },
+        {
+            "simbolo": "Es",
+            "nome": "Einsteinio",
+            "numeri di ossidazione": "error",
+            "tipo": "Attinoide"
+        },
+        {
+            "simbolo": "Eu",
+            "nome": "Europio",
+            "numeri di ossidazione": "3, 2",
+            "tipo": "Lantanoide"
+        },
+        {
+            "simbolo": "F",
+            "nome": "Fluoro",
+            "numeri di ossidazione": "-1",
+            "tipo": "Altro"
+        },
+        {
+            "simbolo": "Fe",
+            "nome": "Ferro",
+            "numeri di ossidazione": "2, 3",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Fm",
+            "nome": "Fermio",
+            "numeri di ossidazione": "error",
+            "tipo": "Attinoide"
+        },
+        {
+            "simbolo": "Fr",
+            "nome": "Francio",
+            "numeri di ossidazione": "1",
+            "tipo": "Metallo alcalino"
+        },
+        {
+            "simbolo": "Ga",
+            "nome": "Gallio",
+            "numeri di ossidazione": "3",
+            "tipo": "Metallo di post-transizione"
+        },
+        {
+            "simbolo": "Gd",
+            "nome": "Gadolinio",
+            "numeri di ossidazione": "3",
+            "tipo": "Lantanoide"
+        },
+        {
+            "simbolo": "Ge",
+            "nome": "Germanio",
+            "numeri di ossidazione": "4",
+            "tipo": "Semimetallo"
+        },
+        {
+            "simbolo": "H",
+            "nome": "Idrogeno",
+            "numeri di ossidazione": "1",
+            "tipo": "Altro"
+        },
+        {
+            "simbolo": "He",
+            "nome": "Elio",
+            "numeri di ossidazione": "error",
+            "tipo": "Gas nobile"
+        },
+        {
+            "simbolo": "Hf",
+            "nome": "Afnio",
+            "numeri di ossidazione": "4",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Hg",
+            "nome": "Mercurio",
+            "numeri di ossidazione": "2, 1",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Ho",
+            "nome": "Olmio",
+            "numeri di ossidazione": "3",
+            "tipo": "Lantanoide"
+        },
+        {
+            "simbolo": "Hs",
+            "nome": "Hassio",
+            "numeri di ossidazione": "error",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "I",
+            "nome": "Iodio",
+            "numeri di ossidazione": "+/-1, 5, 7",
+            "tipo": "Altro"
+        },
+        {
+            "simbolo": "In",
+            "nome": "Indio",
+            "numeri di ossidazione": "3",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Ir",
+            "nome": "Iridio",
+            "numeri di ossidazione": "2, 3, 4, 6",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "K",
+            "nome": "Potassio",
+            "numeri di ossidazione": "1",
+            "tipo": "Metallo alcalino"
+        },
+        {
+            "simbolo": "Kr",
+            "nome": "Kripton",
+            "numeri di ossidazione": "error",
+            "tipo": "Gas nobile"
+        },
+        {
+            "simbolo": "La",
+            "nome": "Lantanio",
+            "numeri di ossidazione": "3",
+            "tipo": "Lantanoide"
+        },
+        {
+            "simbolo": "Li",
+            "nome": "Litio",
+            "numeri di ossidazione": "1",
+            "tipo": "Metallo alcalino"
+        },
+        {
+            "simbolo": "Lr",
+            "nome": "Laurenzio",
+            "numeri di ossidazione": "error",
+            "tipo": "Attinoide"
+        },
+        {
+            "simbolo": "Lu",
+            "nome": "Lutezio",
+            "numeri di ossidazione": "3",
+            "tipo": "Lantanoide"
+        },
+        {
+            "simbolo": "Md",
+            "nome": "Mendelevio",
+            "numeri di ossidazione": "error",
+            "tipo": "Attinoide"
+        },
+        {
+            "simbolo": "Mg",
+            "nome": "Magnesio",
+            "numeri di ossidazione": "2",
+            "tipo": "Metallo alcalino-terroso"
+        },
+        {
+            "simbolo": "Mn",
+            "nome": "Manganese",
+            "numeri di ossidazione": "7, 6, 4, 2, 3",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Mo",
+            "nome": "Molibdeno",
+            "numeri di ossidazione": "6, 5, 4, 3, 2",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Mt",
+            "nome": "Meitnerio",
+            "numeri di ossidazione": "error",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "N",
+            "nome": "Azoto",
+            "numeri di ossidazione": "+/-3, 5, 4, 2",
+            "tipo": "Altro"
+        },
+        {
+            "simbolo": "Na",
+            "nome": "Sodio",
+            "numeri di ossidazione": "1",
+            "tipo": "Metallo alcalino"
+        },
+        {
+            "simbolo": "Nb",
+            "nome": "Niobio",
+            "numeri di ossidazione": "5, 3",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Nd",
+            "nome": "Neodimio",
+            "numeri di ossidazione": "3",
+            "tipo": "Lantanoide"
+        },
+        {
+            "simbolo": "Ne",
+            "nome": "Neon",
+            "numeri di ossidazione": "error",
+            "tipo": "Gas nobile"
+        },
+        {
+            "simbolo": "Ni",
+            "nome": "Nichel",
+            "numeri di ossidazione": "2, 3",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "No",
+            "nome": "Nobelio",
+            "numeri di ossidazione": "error",
+            "tipo": "Attinoide"
+        },
+        {
+            "simbolo": "Np",
+            "nome": "Nettunio",
+            "numeri di ossidazione": "6, 5, 4, 3",
+            "tipo": "Attinoide"
+        },
+        {
+            "simbolo": "O",
+            "nome": "Ossigeno",
+            "numeri di ossidazione": "-2",
+            "tipo": "Altro"
+        },
+        {
+            "simbolo": "Os",
+            "nome": "Osmio",
+            "numeri di ossidazione": "2, 3, 4, 6, 8",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "P",
+            "nome": "Fosforo",
+            "numeri di ossidazione": "+/-3, 5, 4",
+            "tipo": "Altro"
+        },
+        {
+            "simbolo": "Pa",
+            "nome": "Protoattinio",
+            "numeri di ossidazione": "5, 4",
+            "tipo": "Attinoide"
+        },
+        {
+            "simbolo": "Pb",
+            "nome": "Piombio",
+            "numeri di ossidazione": "4, 2",
+            "tipo": "Metallo di post-transizione"
+        },
+        {
+            "simbolo": "Pd",
+            "nome": "Palladio",
+            "numeri di ossidazione": "2, 4",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Pm",
+            "nome": "Promezio",
+            "numeri di ossidazione": "3",
+            "tipo": "Lantanoide"
+        },
+        {
+            "simbolo": "Po",
+            "nome": "Polonio",
+            "numeri di ossidazione": "4, 2",
+            "tipo": "Semimetallo"
+        },
+        {
+            "simbolo": "Pr",
+            "nome": "Praseodimio",
+            "numeri di ossidazione": "3, 4",
+            "tipo": "Lantanoide"
+        },
+        {
+            "simbolo": "Pt",
+            "nome": "Platino",
+            "numeri di ossidazione": "2, 4",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Pu",
+            "nome": "Plutonio",
+            "numeri di ossidazione": "6, 5, 4, 3",
+            "tipo": "Attinoide"
+        },
+        {
+            "simbolo": "Ra",
+            "nome": "Radio",
+            "numeri di ossidazione": "2",
+            "tipo": "Metallo alcalino-terroso"
+        },
+        {
+            "simbolo": "Rb",
+            "nome": "Rubidio",
+            "numeri di ossidazione": "1",
+            "tipo": "Metallo alcalino"
+        },
+        {
+            "simbolo": "Re",
+            "nome": "Renio",
+            "numeri di ossidazione": "7, 6, 4, 2, -1",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Rf",
+            "nome": "Rutherfordio",
+            "numeri di ossidazione": "error",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Rh",
+            "nome": "Rodio",
+            "numeri di ossidazione": "2, 3, 4",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Rn",
+            "nome": "Radon",
+            "numeri di ossidazione": "error",
+            "tipo": "Gas nobile"
+        },
+        {
+            "simbolo": "Ru",
+            "nome": "Rutenio",
+            "numeri di ossidazione": "2, 3, 4, 6, 8",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "S",
+            "nome": "Zolfo",
+            "numeri di ossidazione": "+/-2, 4, 6",
+            "tipo": "Altro"
+        },
+        {
+            "simbolo": "Ag",
+            "nome": "Argento",
+            "numeri di ossidazione": "1",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Sc",
+            "nome": "Scandio",
+            "numeri di ossidazione": "3",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Se",
+            "nome": "Selenio",
+            "numeri di ossidazione": "-2, 4, 6",
+            "tipo": "Altro"
+        },
+        {
+            "simbolo": "Sn",
+            "nome": "Stagno",
+            "numeri di ossidazione": "2, 4",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Sg",
+            "nome": "Seaborgio",
+            "numeri di ossidazione": "error",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Si",
+            "nome": "Silicio",
+            "numeri di ossidazione": "4",
+            "tipo": "Semimetallo"
+        },
+        {
+            "simbolo": "Sm",
+            "nome": "Samario",
+            "numeri di ossidazione": "3, 2",
+            "tipo": "Lantanoide"
+        },
+        {
+            "simbolo": "Sr",
+            "nome": "Stronzio",
+            "numeri di ossidazione": "2",
+            "tipo": "Metallo alcalino-terroso"
+        },
+        {
+            "simbolo": "Ta",
+            "nome": "Tantalio",
+            "numeri di ossidazione": "5",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Tb",
+            "nome": "Terbio",
+            "numeri di ossidazione": "3, 4",
+            "tipo": "Lantanoide"
+        },
+        {
+            "simbolo": "Tc",
+            "nome": "Tecnezio",
+            "numeri di ossidazione": "7",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Te",
+            "nome": "Tellurio",
+            "numeri di ossidazione": "-2, 4, 6",
+            "tipo": "Semimetallo"
+        },
+        {
+            "simbolo": "Th",
+            "nome": "Torio",
+            "numeri di ossidazione": "4",
+            "tipo": "Attinoide"
+        },
+        {
+            "simbolo": "Sn",
+            "nome": "Stagno",
+            "numeri di ossidazione": "4, 2",
+            "tipo": "Metallo di post-transizione"
+        },
+        {
+            "simbolo": "Ti",
+            "nome": "Titanio",
+            "numeri di ossidazione": "4, 3",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Tl",
+            "nome": "Tallio",
+            "numeri di ossidazione": "3, 1",
+            "tipo": "Metallo di post-transizione"
+        },
+        {
+            "simbolo": "Tm",
+            "nome": "Tulio",
+            "numeri di ossidazione": "3, 2",
+            "tipo": "Lantanoide"
+        },
+        {
+            "simbolo": "U",
+            "nome": "Uranio",
+            "numeri di ossidazione": "6, 5, 4, 3",
+            "tipo": "Attinoide"
+        },
+        {
+            "simbolo": "V",
+            "nome": "Vanadio",
+            "numeri di ossidazione": "5, 4, 3, 2",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "W",
+            "nome": "Tungsteno",
+            "numeri di ossidazione": "6, 5, 4, 3, 2",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Xe",
+            "nome": "Xeno",
+            "numeri di ossidazione": "error",
+            "tipo": "Gas nobile"
+        },
+        {
+            "simbolo": "Y",
+            "nome": "Ittrio",
+            "numeri di ossidazione": "3",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Yb",
+            "nome": "Itterbio",
+            "numeri di ossidazione": "3, 2",
+            "tipo": "Lantanoide"
+        },
+        {
+            "simbolo": "Zn",
+            "nome": "Zinco",
+            "numeri di ossidazione": "2",
+            "tipo": "Metallo di transizione"
+        },
+        {
+            "simbolo": "Zr",
+            "nome": "Zirconio",
+            "numeri di ossidazione": "4",
+            "tipo": "Metallo di transizione"
+        }
+    ]
+}

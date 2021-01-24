@@ -1,0 +1,96 @@
+body{
+    background-color: #37305e;
+}
+
+h1{
+    color:red;
+}
+
+#molecola{
+    background-color: red;    
+}
+
+#result{
+    outline:none;
+    color: #f4ff00;
+    background-color: #1f3b64;
+    border: 2px solid black;
+    width: 50%;
+    height: 40px;
+    max-width: 400px;
+    font-size: 17px;
+    text-align: center;
+}
+
+.topnav {
+    background-color: #4abe5a;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link 
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }*/
+
+
+#send{
+    background-color: #5380a8b5;
+    border: 2px solid black;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    outline:none;
+    border-radius: 10px;
+}
+
+#send:active{
+    background-color: #687233;
+}
+
+#molecola{
+    color: #f4ff00;
+    background-color: #1f3b64;
+    border: 2px solid black;
+    width: 50%;
+    height: 40px;
+    max-width: 400px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#molecola:focus{
+    outline:none;
+    animation-duration: 0.5s;
+    animation-name: click;
+    border-radius: 15px;
+}
+
+@keyframes click{
+    from {border-radius: 0px;}
+    to {border-radius: 15px;}
+  }
+
+@media (min-device-width : 100px) and (max-device-width : 800px) {
+    #molecola{
+        min-width: 200px;
+    }   
+    #result{
+        min-width: 200px;
+    }
+}

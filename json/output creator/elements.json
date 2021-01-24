@@ -1,0 +1,2082 @@
+[
+    {
+        "classes": "other-nonmetal c1 r1",
+        "type": "Altro",
+        "orbitals": [
+            1
+        ],
+        "atomicNumber": 1,
+        "symbol": "H",
+        "name": "Idrogeno",
+        "atomicMass": 1.0079
+    },
+    {
+        "classes": "noble-gas raw c18 r1",
+        "type": "Gas nobile",
+        "orbitals": [
+            2
+        ],
+        "atomicNumber": 2,
+        "symbol": "He",
+        "name": "Elio",
+        "atomicMass": 4.0026,
+        "rawMaterial": true,
+        "rischioEsaurimento": "25",
+        "importanzaEconomica": "27",
+        "caratteristica1": "Gas nobile inerte",
+        "industria1": "Aeronautica",
+        "industria2": "Medica",
+        "industria3": "Elettrica",
+        "paese1": "Us",
+        "paese2": "Ca",
+        "paese3": "Pl",
+        "caratteristica2": "Costoso",
+        "nessunPericolo": true
+    },
+    {
+        "classes": "alkali-metal raw c1 r2",
+        "type": "Metallo alcalino",
+        "orbitals": [
+            3
+        ],
+        "atomicNumber": 3,
+        "symbol": "Li",
+        "name": "Litio",
+        "atomicMass": 6.941,
+        "rawMaterial": true,
+        "caratteristica1": "Duttile",
+        "caratteristica2": "Ossidazione rapida",
+        "caratteristica3": "Conduttore",
+        "pericolo1": "Infiammabile",
+        "pericolo2": "Leggermente tossico",
+        "pericolo3": "Esplosivo",
+        "caratteristica4": "",
+        "industria1": "Metallurgica",
+        "industria2": "Elettrica",
+        "industria3": "Farmaceutica",
+        "paese1": "Cl",
+        "paese2": "Us",
+        "paese3": "Cn",
+        "importanzaEconomica": "24",
+        "rischioEsaurimento": "10"
+    },
+    {
+        "classes": "alkaline-earth-metal raw c2 r2",
+        "type": "Metallo alcalino-terroso",
+        "orbitals": [
+            2,
+            2
+        ],
+        "atomicNumber": 4,
+        "symbol": "Be",
+        "name": "Berillio",
+        "atomicMass": 9.0122,
+        "rawMaterial": true,
+        "caratteristica1": "Conduttore",
+        "caratteristica2": "Basso coeff. dilatazione",
+        "pericolo1": " Cancerogeno",
+        "industria1": "Elettronica",
+        "industria2": "Aeronautica",
+        "industria3": "Gioielleria",
+        "industria4": "Elettrica",
+        "paese1": "Br",
+        "paese2": "Cg",
+        "paese3": "At",
+        "importanzaEconomica": "39",
+        "rischioEsaurimento": "24"
+    },
+    {
+        "classes": "metalloid c13 r2",
+        "type": "Semimetallo",
+        "orbitals": [
+            3,
+            2
+        ],
+        "atomicNumber": 5,
+        "symbol": "B",
+        "name": "Boro",
+        "atomicMass": 10.811
+    },
+    {
+        "classes": "other-nonmetal c14 r2",
+        "type": "Altro",
+        "orbitals": [
+            4,
+            2
+        ],
+        "atomicNumber": 6,
+        "symbol": "C",
+        "name": "Carbonio",
+        "atomicMass": 12.0107
+    },
+    {
+        "classes": "other-nonmetal c15 r2",
+        "type": "Altro",
+        "orbitals": [
+            5,
+            2
+        ],
+        "atomicNumber": 7,
+        "symbol": "N",
+        "name": "Azoto",
+        "atomicMass": 14.0067
+    },
+    {
+        "classes": "other-nonmetal c16 r2",
+        "type": "Altro",
+        "orbitals": [
+            6,
+            2
+        ],
+        "atomicNumber": 8,
+        "symbol": "O",
+        "name": "Ossigeno",
+        "atomicMass": 15.9994
+    },
+    {
+        "classes": "other-nonmetal c17 r2",
+        "type": "Altro",
+        "orbitals": [
+            7,
+            2
+        ],
+        "atomicNumber": 9,
+        "symbol": "F",
+        "name": "Fluoro",
+        "atomicMass": 18.9984
+    },
+    {
+        "classes": "noble-gas c18 r2",
+        "type": "Gas nobile",
+        "orbitals": [
+            8,
+            2
+        ],
+        "atomicNumber": 10,
+        "symbol": "Ne",
+        "name": "Neon",
+        "atomicMass": 20.1797
+    },
+    {
+        "classes": "alkali-metal c1 r3",
+        "type": "Metallo alcalino",
+        "orbitals": [
+            1,
+            8,
+            2
+        ],
+        "atomicNumber": 11,
+        "symbol": "Na",
+        "name": "Sodio",
+        "atomicMass": 22.9899
+    },
+    {
+        "classes": "alkaline-earth-metal c2 r3",
+        "type": "Metallo alcalino-terroso",
+        "orbitals": [
+            2,
+            8,
+            2
+        ],
+        "atomicNumber": 12,
+        "symbol": "Mg",
+        "name": "Magnesio",
+        "atomicMass": 24.305
+    },
+    {
+        "classes": "post-transition-metal raw c13 r3",
+        "type": "Metallo di post-transizione",
+        "orbitals": [
+            3,
+            8,
+            2
+        ],
+        "atomicNumber": 13,
+        "symbol": "Al",
+        "name": "Alluminio",
+        "atomicMass": 26.9815,
+        "rawMaterial": true,
+        "caratteristica1": "Duttile",
+        "caratteristica2": "Leggero",
+        "pericolo1": "Infiammabile",
+        "industria1": "Aeronautica",
+        "industria2": "Metallurgica",
+        "industria3": "Monetazione",
+        "paese1": "Us",
+        "paese2": "Ru",
+        "paese3": "De",
+        "importanzaEconomica": "65",
+        "rischioEsaurimento": "2"
+    },
+    {
+        "classes": "metalloid raw c14 r3",
+        "type": "Semimetallo",
+        "orbitals": [
+            4,
+            8,
+            2
+        ],
+        "atomicNumber": 14,
+        "symbol": "Si",
+        "name": "Silicio",
+        "atomicMass": 28.0855,
+        "rawMaterial": true,
+        "caratteristica1": "Semiconduttore",
+        "nessunPericolo": true,
+        "industria1": "Elettronica",
+        "industria2": "Metallurgica",
+        "industria3": "Medica",
+        "paese1": "Us",
+        "paese2": "Au",
+        "paese3": "Ru",
+        "importanzaEconomica": "25",
+        "rischioEsaurimento": "14"
+    },
+    {
+        "classes": "other-nonmetal c15 r3",
+        "type": "Altro",
+        "orbitals": [
+            5,
+            8,
+            2
+        ],
+        "atomicNumber": 15,
+        "symbol": "P",
+        "name": "Fosforo",
+        "atomicMass": 30.9738
+    },
+    {
+        "classes": "other-nonmetal c16 r3",
+        "type": "Altro",
+        "orbitals": [
+            6,
+            8,
+            2
+        ],
+        "atomicNumber": 16,
+        "symbol": "S",
+        "name": "Zolfo",
+        "atomicMass": 32.065
+    },
+    {
+        "classes": "other-nonmetal c17 r3",
+        "type": "Altro",
+        "orbitals": [
+            7,
+            8,
+            2
+        ],
+        "atomicNumber": 17,
+        "symbol": "Cl",
+        "name": "Cloro",
+        "atomicMass": 35.453
+    },
+    {
+        "classes": "noble-gas c18 r3",
+        "type": "Gas nobile",
+        "orbitals": [
+            8,
+            8,
+            2
+        ],
+        "atomicNumber": 18,
+        "symbol": "Ar",
+        "name": "Argon",
+        "atomicMass": 39.948
+    },
+    {
+        "classes": "alkali-metal c1 r4",
+        "type": "Metallo alcalino",
+        "orbitals": [
+            1,
+            8,
+            8,
+            2
+        ],
+        "atomicNumber": 19,
+        "symbol": "K",
+        "name": "Potassio",
+        "atomicMass": 39.0983
+    },
+    {
+        "classes": "alkaline-earth-metal c2 r4",
+        "type": "Metallo alcalino-terroso",
+        "orbitals": [
+            2,
+            8,
+            8,
+            2
+        ],
+        "atomicNumber": 20,
+        "symbol": "Ca",
+        "name": "Calcio",
+        "atomicMass": 40.078
+    },
+    {
+        "classes": "transition-metal c3 r4",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            9,
+            8,
+            2
+        ],
+        "atomicNumber": 21,
+        "symbol": "Sc",
+        "name": "Scandio",
+        "atomicMass": 44.9559
+    },
+    {
+        "classes": "transition-metal raw c4 r4",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            10,
+            8,
+            2
+        ],
+        "atomicNumber": 22,
+        "symbol": "Ti",
+        "name": "Titanio",
+        "atomicMass": 47.867,
+        "rawMaterial": true,
+        "caratteristica1": "Resiste alla corrosione",
+        "caratteristica2": "Duro",
+        "caratteristica3": "Resiste all'ossidazione",
+        "caratteristica4": "Resiste al calore",
+        "nessunPericolo": true,
+        "industria1": "Metallurgica",
+        "industria2": "Aeronautica",
+        "industria3": "Medica",
+        "industria4": "Gioielleria",
+        "paese1": "Au",
+        "paese2": "No",
+        "paese3": "Ca",
+        "importanzaEconomica": "43",
+        "rischioEsaurimento": "12"
+    },
+    {
+        "classes": "transition-metal raw c5 r4",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            11,
+            8,
+            2
+        ],
+        "atomicNumber": 23,
+        "symbol": "V",
+        "name": "Vanadio",
+        "atomicMass": 50.9415,
+        "rawMaterial": true,
+        "caratteristica1": "Resiste all'ossidazione",
+        "caratteristica2": "Superconduttore",
+        "caratteristica3": "Magnetico",
+        "pericolo1": "Infiammabile",
+        "pericolo2": "Tossico",
+        "industria1": "Metallurgica",
+        "industria2": "Vetreria",
+        "industria3": "Aeronautica",
+        "industria4": "Elettrica",
+        "paese1": "Cn",
+        "paese2": "Cd",
+        "paese3": "Br",
+        "importanzaEconomica": "36",
+        "rischioEsaurimento": "16"
+    },
+    {
+        "classes": "transition-metal raw c6 r4",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            1,
+            13,
+            8,
+            2
+        ],
+        "atomicNumber": 24,
+        "symbol": "Cr",
+        "name": "Cromo",
+        "atomicMass": 51.9961,
+        "rawMaterial": true,
+        "caratteristica1": "Resiste alla corrosione",
+        "caratteristica2": "Resiste al calore",
+        "caratteristica3": "Magnetico",
+        "pericolo1": "Tossico",
+        "industria1": "Metallurgica",
+        "industria2": "Gioielleria",
+        "industria3": "Medica",
+        "paese1": "Cd",
+        "paese2": "Kz",
+        "paese3": "In",
+        "importanzaEconomica": "70",
+        "rischioEsaurimento": "5"
+    },
+    {
+        "classes": "transition-metal c7 r4",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            13,
+            8,
+            2
+        ],
+        "atomicNumber": 25,
+        "symbol": "Mn",
+        "name": "Manganese",
+        "atomicMass": 54.938
+    },
+    {
+        "classes": "transition-metal c8 r4",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            14,
+            8,
+            2
+        ],
+        "atomicNumber": 26,
+        "symbol": "Fe",
+        "name": "Ferro",
+        "atomicMass": 55.84
+    },
+    {
+        "classes": "transition-metal raw c9 r4",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            15,
+            8,
+            2
+        ],
+        "atomicNumber": 27,
+        "symbol": "Co",
+        "name": "Cobalto",
+        "atomicMass": 58.9332,
+        "rawMaterial": true,
+        "caratteristica1": "Resiste alla corrosione",
+        "caratteristica2": "Duro",
+        "caratteristica3": "Conduttore",
+        "caratteristica4": "Basso coeff. dilatazione",
+        "pericolo1": " Cancerogeno",
+        "industria1": "Metallurgica",
+        "industria2": "Aeronautica",
+        "industria3": "Gioielleria",
+        "industria4": "Medica",
+        "paese1": "Cg",
+        "paese2": "Cn",
+        "paese3": "Au",
+        "importanzaEconomica": "58",
+        "rischioEsaurimento": "25"
+    },
+    {
+        "classes": "transition-metal raw c10 r4",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            16,
+            8,
+            2
+        ],
+        "atomicNumber": 28,
+        "symbol": "Ni",
+        "name": "Nichel",
+        "atomicMass": 58.6934,
+        "rawMaterial": true,
+        "caratteristica1": "Duro",
+        "caratteristica2": "Duttile",
+        "pericolo1": "Estremamente tossico",
+        "industria1": "Metallurgica",
+        "industria2": "Monetazione",
+        "industria3": "Gioielleria",
+        "industria4": "",
+        "paese1": "Au",
+        "paese2": "Ru",
+        "paese3": "Ca",
+        "importanzaEconomica": "58",
+        "rischioEsaurimento": "30"
+    },
+    {
+        "classes": "transition-metal c11 r4",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            1,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 29,
+        "symbol": "Cu",
+        "name": "Rame",
+        "atomicMass": 63.546
+    },
+    {
+        "classes": "transition-metal c12 r4",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 30,
+        "symbol": "Zn",
+        "name": "Zinco",
+        "atomicMass": 65.409
+    },
+    {
+        "classes": "post-transition-metal c13 r4",
+        "type": "Metallo di post-transizione",
+        "orbitals": [
+            3,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 31,
+        "symbol": "Ga",
+        "name": "Gallio",
+        "atomicMass": 69.723
+    },
+    {
+        "classes": "metalloid c14 r4",
+        "type": "Semimetallo",
+        "orbitals": [
+            4,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 32,
+        "symbol": "Ge",
+        "name": "Germanio",
+        "atomicMass": 72.64
+    },
+    {
+        "classes": "metalloid c15 r4",
+        "type": "Semimetallo",
+        "orbitals": [
+            5,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 33,
+        "symbol": "As",
+        "name": "Arsenico",
+        "atomicMass": 74.9216
+    },
+    {
+        "classes": "other-nonmetal c16 r4",
+        "type": "Altro",
+        "orbitals": [
+            6,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 34,
+        "symbol": "Se",
+        "name": "Selenio",
+        "atomicMass": 78.96
+    },
+    {
+        "classes": "other-nonmetal c17 r4",
+        "type": "Altro",
+        "orbitals": [
+            7,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 35,
+        "symbol": "Br",
+        "name": "Bromo",
+        "atomicMass": 79.904
+    },
+    {
+        "classes": "noble-gas c18 r4",
+        "type": "Gas nobile",
+        "orbitals": [
+            8,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 36,
+        "symbol": "Kr",
+        "name": "Kripton",
+        "atomicMass": 83.798
+    },
+    {
+        "classes": "alkali-metal c1 r5",
+        "type": "Metallo alcalino",
+        "orbitals": [
+            1,
+            8,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 37,
+        "symbol": "Rb",
+        "name": "Rubidio",
+        "atomicMass": 85.4678
+    },
+    {
+        "classes": "alkaline-earth-metal c2 r5",
+        "type": "Metallo alcalino-terroso",
+        "orbitals": [
+            2,
+            8,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 38,
+        "symbol": "Sr",
+        "name": "Stronzio",
+        "atomicMass": 87.62
+    },
+    {
+        "classes": "transition-metal c3 r5",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            8,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 38,
+        "symbol": "Y",
+        "name": "Ittrio",
+        "atomicMass": 88.9059
+    },
+    {
+        "classes": "transition-metal c4 r5",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            10,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 40,
+        "symbol": "Zr",
+        "name": "Zirconio",
+        "atomicMass": 91.224
+    },
+    {
+        "classes": "transition-metal c5 r5",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            1,
+            12,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 41,
+        "symbol": "Nb",
+        "name": "Niobio",
+        "atomicMass": 92.90638
+    },
+    {
+        "classes": "transition-metal c6 r5",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            1,
+            13,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 42,
+        "symbol": "Mo",
+        "name": "Molibdeno",
+        "atomicMass": 95.94
+    },
+    {
+        "classes": "transition-metal c7 r5",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            13,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 43,
+        "symbol": "Tc",
+        "name": "Tecnezio",
+        "atomicMass": 98.91
+    },
+    {
+        "classes": "transition-metal c8 r5",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            1,
+            15,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 44,
+        "symbol": "Ru",
+        "name": "Rutenio",
+        "atomicMass": 101.07
+    },
+    {
+        "classes": "transition-metal c9 r5",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            1,
+            16,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 45,
+        "symbol": "Rh",
+        "name": "Rodio",
+        "atomicMass": 102.9055
+    },
+    {
+        "classes": "transition-metal c10 r5",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            18,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 46,
+        "symbol": "Pd",
+        "name": "Palladio",
+        "atomicMass": 106.42
+    },
+    {
+        "classes": "transition-metal raw c11 r5",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            1,
+            18,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 47,
+        "symbol": "Ag",
+        "name": "Argento",
+        "atomicMass": 107.8683,
+        "rawMaterial": true,
+        "caratteristica1": "Conduttore",
+        "caratteristica2": "Resiste alla corrosione",
+        "caratteristica3": "Costoso",
+        "nessunPericolo": true,
+        "industria1": "Metallurgica",
+        "industria2": "Monetazione",
+        "industria3": "Gioielleria",
+        "industria4": "",
+        "paese1": "Us",
+        "paese2": "Pe",
+        "paese3": "Cn",
+        "importanzaEconomica": "40",
+        "rischioEsaurimento": "5"
+    },
+    {
+        "classes": "transition-metal c12 r5",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            18,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 48,
+        "symbol": "Cd",
+        "name": "Cadmio",
+        "atomicMass": 112.411
+    },
+    {
+        "classes": "post-transition-metal c13 r5",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            3,
+            18,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 49,
+        "symbol": "In",
+        "name": "Indio",
+        "atomicMass": 114.818
+    },
+    {
+        "classes": "post-transition-metal c14 r5",
+        "type": "Metallo di post-transizione",
+        "orbitals": [
+            4,
+            18,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 50,
+        "symbol": "Sn",
+        "name": "Stagno",
+        "atomicMass": 118.71
+    },
+    {
+        "classes": "metalloid raw c15 r5",
+        "type": "Semimetallo",
+        "orbitals": [
+            5,
+            18,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 51,
+        "symbol": "Sb",
+        "name": "Antimonio",
+        "atomicMass": 121.76,
+        "rawMaterial": true,
+        "caratteristica1": "Semiconduttore",
+        "caratteristica2": "Resiste al calore",
+        "pericolo1": "Estremamente tossico",
+        "industria1": "Elettrica",
+        "industria2": "Medica",
+        "industria3": "Metallurgica",
+        "industria4": "",
+        "paese1": "Bo",
+        "paese2": "De",
+        "importanzaEconomica": "40",
+        "rischioEsaurimento": "42"
+    },
+    {
+        "classes": "metalloid c16 r5",
+        "type": "Semimetallo",
+        "orbitals": [
+            6,
+            18,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 52,
+        "symbol": "Te",
+        "name": "Tellurio",
+        "atomicMass": 127.6
+    },
+    {
+        "classes": "other-nonmetal c17 r5",
+        "type": "Altro",
+        "orbitals": [
+            7,
+            18,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 53,
+        "symbol": "I",
+        "name": "Iodio",
+        "atomicMass": 126.90447
+    },
+    {
+        "classes": "noble-gas c18 r5",
+        "type": "Gas nobile",
+        "orbitals": [
+            8,
+            18,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 54,
+        "symbol": "Xe",
+        "name": "Xeno",
+        "atomicMass": 131.293
+    },
+    {
+        "classes": "alkali-metal c1 r6",
+        "type": "Metallo alcalino",
+        "orbitals": [
+            1,
+            8,
+            18,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 55,
+        "symbol": "Cs",
+        "name": "Cesio",
+        "atomicMass": 132.905
+    },
+    {
+        "classes": "alkaline-earth-metal c2 r6",
+        "type": "Metallo alcalino-terroso",
+        "orbitals": [
+            2,
+            8,
+            18,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 56,
+        "symbol": "Ba",
+        "name": "Bario",
+        "atomicMass": 137.327
+    },
+    {
+        "classes": "lanthanoid c4 r9",
+        "type": "Lantanoide",
+        "orbitals": [
+            2,
+            9,
+            18,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 57,
+        "symbol": "La",
+        "name": "Lantanio",
+        "atomicMass": 138.905
+    },
+    {
+        "classes": "lanthanoid c5 r9",
+        "type": "Lantanoide",
+        "orbitals": [
+            2,
+            9,
+            19,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 58,
+        "symbol": "Ce",
+        "name": "Cerio",
+        "atomicMass": 140.116
+    },
+    {
+        "classes": "lanthanoid c6 r9",
+        "type": "Lantanoide",
+        "orbitals": [
+            2,
+            8,
+            21,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 59,
+        "symbol": "Pr",
+        "name": "Praseodimio",
+        "atomicMass": 140.907
+    },
+    {
+        "classes": "lanthanoid c7 r9",
+        "type": "Lantanoide",
+        "orbitals": [
+            2,
+            8,
+            22,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 60,
+        "symbol": "Nd",
+        "name": "Neodimio",
+        "atomicMass": 144.242
+    },
+    {
+        "classes": "lanthanoid c8 r9",
+        "type": "Lantanoide",
+        "orbitals": [
+            2,
+            8,
+            23,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 61,
+        "symbol": "Pm",
+        "name": "Promezio",
+        "atomicMass": 145
+    },
+    {
+        "classes": "lanthanoid c9 r9",
+        "type": "Lantanoide",
+        "orbitals": [
+            2,
+            8,
+            24,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 62,
+        "symbol": "Sm",
+        "name": "Samario",
+        "atomicMass": 150.36
+    },
+    {
+        "classes": "lanthanoid c10 r9",
+        "type": "Lantanoide",
+        "orbitals": [
+            2,
+            8,
+            25,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 63,
+        "symbol": "Eu",
+        "name": "Europio",
+        "atomicMass": 151.964
+    },
+    {
+        "classes": "lanthanoid c11 r9",
+        "type": "Lantanoide",
+        "orbitals": [
+            2,
+            9,
+            25,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 64,
+        "symbol": "Gd",
+        "name": "Gadolinio",
+        "atomicMass": 157.25
+    },
+    {
+        "classes": "lanthanoid c12 r9",
+        "type": "Lantanoide",
+        "orbitals": [
+            2,
+            8,
+            27,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 65,
+        "symbol": "Tb",
+        "name": "Terbio",
+        "atomicMass": 158.925
+    },
+    {
+        "classes": "lanthanoid c13 r9",
+        "type": "Lantanoide",
+        "orbitals": [
+            2,
+            8,
+            28,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 66,
+        "symbol": "Dy",
+        "name": "Disprosio",
+        "atomicMass": 162.5
+    },
+    {
+        "classes": "lanthanoid c14 r9",
+        "type": "Lantanoide",
+        "orbitals": [
+            2,
+            8,
+            29,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 67,
+        "symbol": "Ho",
+        "name": "Olmio",
+        "atomicMass": 164.93
+    },
+    {
+        "classes": "lanthanoid c15 r9",
+        "type": "Lantanoide",
+        "orbitals": [
+            2,
+            8,
+            30,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 68,
+        "symbol": "Er",
+        "name": "Erbio",
+        "atomicMass": 167.259
+    },
+    {
+        "classes": "lanthanoid c16 r9",
+        "type": "Lantanoide",
+        "orbitals": [
+            2,
+            8,
+            31,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 69,
+        "symbol": "Tm",
+        "name": "Tulio",
+        "atomicMass": 168.934
+    },
+    {
+        "classes": "lanthanoid c17 r9",
+        "type": "Lantanoide",
+        "orbitals": [
+            2,
+            8,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 70,
+        "symbol": "Yb",
+        "name": "Itterbio",
+        "atomicMass": 173.04
+    },
+    {
+        "classes": "lanthanoid c18 r9",
+        "type": "Lantanoide",
+        "orbitals": [
+            2,
+            9,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 71,
+        "symbol": "Lu",
+        "name": "Lutezio",
+        "atomicMass": 174.967
+    },
+    {
+        "classes": "transition-metal c4 r6",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            10,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 72,
+        "symbol": "Hf",
+        "name": "Afnio",
+        "atomicMass": 178.49
+    },
+    {
+        "classes": "transition-metal raw c5 r6",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            11,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 73,
+        "symbol": "Ta",
+        "name": "Tantalio",
+        "atomicMass": 180.947,
+        "rawMaterial": true,
+        "caratteristica1": "Duro",
+        "caratteristica2": "Duttile",
+        "caratteristica3": "Resiste al calore",
+        "caratteristica4": "Resiste alla corrosione",
+        "pericolo1": "  Estremamente tossico",
+        "industria1": "Metallurgica",
+        "industria2": "Elettronica",
+        "industria3": "Medica",
+        "paese1": "Ca",
+        "paese2": "De",
+        "paese3": "Th",
+        "importanzaEconomica": "39",
+        "rischioEsaurimento": "10"
+    },
+    {
+        "classes": "transition-metal raw c6 r6",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            12,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 74,
+        "symbol": "W",
+        "name": "Tungsteno",
+        "atomicMass": 183.84,
+        "rawMaterial": true,
+        "caratteristica1": "Resiste al calore",
+        "caratteristica2": "Conduttore",
+        "caratteristica3": "Resiste alla corrosione",
+        "pericolo1": "Cancerogeno",
+        "pericolo2": "Tossico",
+        "industria1": "Elettrica",
+        "industria2": "Aeronautica",
+        "industria3": "Metallurgica",
+        "paese1": "Cn",
+        "paese2": "Bo",
+        "paese3": "Ru",
+        "importanzaEconomica": "72",
+        "rischioEsaurimento": "18"
+    },
+    {
+        "classes": "transition-metal raw c7 r6",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            13,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 75,
+        "symbol": "Re",
+        "name": "Renio",
+        "atomicMass": 186.207,
+        "rawMaterial": true,
+        "caratteristica1": "Resiste al calore",
+        "caratteristica2": "Costoso",
+        "nessunPericolo": true,
+        "industria1": "Metallurgica",
+        "industria2": "Elettrica",
+        "industria3": "Aeronautica",
+        "paese1": "Raro",
+        "importanzaEconomica": "20",
+        "rischioEsaurimento": "10"
+    },
+    {
+        "classes": "transition-metal c8 r6",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            14,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 76,
+        "symbol": "Os",
+        "name": "Osmio",
+        "atomicMass": 190.23
+    },
+    {
+        "classes": "transition-metal raw c9 r6",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            15,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 77,
+        "symbol": "Ir",
+        "name": "Iridio",
+        "atomicMass": 192.217,
+        "rawMaterial": true,
+        "caratteristica1": "Duro",
+        "caratteristica2": "Superconduttore",
+        "caratteristica3": "Resiste alla corrosione",
+        "pericolo1": "Leggermente tossico",
+        "industria1": "Elettrica",
+        "industria2": "Metallurgica",
+        "paese1": "Raro",
+        "importanzaEconomica": "55",
+        "rischioEsaurimento": "35"
+    },
+    {
+        "classes": "transition-metal raw c10 r6",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            1,
+            17,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 78,
+        "symbol": "Pt",
+        "name": "Platino",
+        "atomicMass": 195.084,
+        "rawMaterial": true,
+        "caratteristica1": "Duttile",
+        "caratteristica2": "Resiste alla corrosione",
+        "caratteristica3": "Conduttore",
+        "caratteristica4": "Resiste all'ossidazione",
+        "nessunPericolo": true,
+        "industria1": "Gioielleria",
+        "industria2": "Elettronica",
+        "industria3": "Medica",
+        "industria4": "Metallurgica",
+        "paese1": "Cg",
+        "paese2": "Ru",
+        "paese3": "Ca",
+        "importanzaEconomica": "47",
+        "rischioEsaurimento": "38"
+    },
+    {
+        "classes": "transition-metal raw c11 r6",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            1,
+            18,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 79,
+        "symbol": "Au",
+        "name": "Oro",
+        "atomicMass": 196.966,
+        "rawMaterial": true,
+        "caratteristica1": "Duttile",
+        "caratteristica2": "Costoso",
+        "caratteristica3": "Conduttore",
+        "caratteristica4": "Basso coeff. di dilatazione",
+        "industria1": "Elettronica",
+        "industria2": "Medica",
+        "industria3": "Gioielleria",
+        "industria4": "Aeronautica",
+        "paese1": "Cg",
+        "paese2": "Us",
+        "paese3": "Au",
+        "importanzaEconomica": "20",
+        "rischioEsaurimento": "2"
+    },
+    {
+        "classes": "transition-metal c12 r6",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            18,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 80,
+        "symbol": "Hg",
+        "name": "Mercurio",
+        "atomicMass": 200.59
+    },
+    {
+        "classes": "post-transition-metal c13 r6",
+        "type": "Metallo di post-transizione",
+        "orbitals": [
+            3,
+            18,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 81,
+        "symbol": "Tl",
+        "name": "Tallio",
+        "atomicMass": 204.383
+    },
+    {
+        "classes": "post-transition-metal c14 r6",
+        "type": "Metallo di post-transizione",
+        "orbitals": [
+            4,
+            18,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 82,
+        "symbol": "Pb",
+        "name": "Piombio",
+        "atomicMass": 207.2
+    },
+    {
+        "classes": "post-transition-metal raw c15 r6",
+        "type": "Metallo di post-transizione",
+        "orbitals": [
+            5,
+            18,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 83,
+        "symbol": "Bi",
+        "name": "Bismuto",
+        "atomicMass": 208.98,
+        "rawMaterial": true,
+        "caratteristica1": "Duttile",
+        "caratteristica2": "Magnetico",
+        "nessunPericolo": true,
+        "industria1": "Metallurgica",
+        "industria2": "Medica",
+        "industria3": "Elettrica",
+        "paese1": "Ca",
+        "paese2": "Bo",
+        "paese3": "No",
+        "importanzaEconomica": "35",
+        "rischioEsaurimento": "38"
+    },
+    {
+        "classes": "metalloid c16 r6",
+        "type": "Semimetallo",
+        "orbitals": [
+            6,
+            18,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 84,
+        "symbol": "Po",
+        "name": "Polonio",
+        "atomicMass": 209,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "other-nonmetal c17 r6",
+        "type": "Altro",
+        "orbitals": [
+            7,
+            18,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 85,
+        "symbol": "At",
+        "name": "Astato",
+        "atomicMass": 210,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "noble-gas c18 r6",
+        "type": "Gas nobile",
+        "orbitals": [
+            8,
+            18,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 86,
+        "symbol": "Rn",
+        "name": "Radon",
+        "atomicMass": 222,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "alkali-metal c1 r7",
+        "type": "Metallo alcalino",
+        "orbitals": [
+            1,
+            8,
+            18,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 87,
+        "symbol": "Fr",
+        "name": "Francio",
+        "atomicMass": 223.02,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "alkaline-earth-metal c2 r7",
+        "type": "Metallo alcalino-terroso",
+        "orbitals": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 88,
+        "symbol": "Ra",
+        "name": "Radio",
+        "atomicMass": 226.025,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "actinoid c4 r10",
+        "type": "Attinoide",
+        "orbitals": [
+            2,
+            9,
+            18,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 89,
+        "symbol": "Ac",
+        "name": "Attinio",
+        "atomicMass": 227,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "actinoid c5 r10",
+        "type": "Attinoide",
+        "orbitals": [
+            2,
+            10,
+            18,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 90,
+        "symbol": "Th",
+        "name": "Torio",
+        "atomicMass": 232.038
+    },
+    {
+        "classes": "actinoid c6 r10",
+        "type": "Attinoide",
+        "orbitals": [
+            2,
+            9,
+            20,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 91,
+        "symbol": "Pa",
+        "name": "Protoattinio",
+        "atomicMass": 231.035
+    },
+    {
+        "classes": "actinoid c7 r10",
+        "type": "Attinoide",
+        "orbitals": [
+            2,
+            9,
+            21,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 92,
+        "symbol": "U",
+        "name": "Uranio",
+        "atomicMass": 238.028
+    },
+    {
+        "classes": "actinoid c8 r10",
+        "type": "Attinoide",
+        "orbitals": [
+            2,
+            9,
+            22,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 93,
+        "symbol": "Np",
+        "name": "Nettunio",
+        "atomicMass": 237.048,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "actinoid c9 r10",
+        "type": "Attinoide",
+        "orbitals": [
+            2,
+            8,
+            24,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 94,
+        "symbol": "Pu",
+        "name": "Plutonio",
+        "atomicMass": 244.06,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "actinoid c10 r10",
+        "type": "Attinoide",
+        "orbitals": [
+            2,
+            8,
+            25,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 95,
+        "symbol": "Am",
+        "name": "Americio",
+        "atomicMass": 243,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "actinoid c11 r10",
+        "type": "Attinoide",
+        "orbitals": [
+            2,
+            9,
+            25,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 96,
+        "symbol": "Cm",
+        "name": "Curio",
+        "atomicMass": 247,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "actinoid c12 r10",
+        "type": "Attinoide",
+        "orbitals": [
+            2,
+            8,
+            27,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 97,
+        "symbol": "Bk",
+        "name": "Berkelio",
+        "atomicMass": 247,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "actinoid c13 r10",
+        "type": "Attinoide",
+        "orbitals": [
+            2,
+            8,
+            28,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 98,
+        "symbol": "Cf",
+        "name": "Californio",
+        "atomicMass": 251,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "actinoid c14 r10",
+        "type": "Attinoide",
+        "orbitals": [
+            2,
+            8,
+            29,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 99,
+        "symbol": "Es",
+        "name": "Einsteinio",
+        "atomicMass": 252,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "actinoid c15 r10",
+        "type": "Attinoide",
+        "orbitals": [
+            2,
+            8,
+            30,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 100,
+        "symbol": "Fm",
+        "name": "Fermio",
+        "atomicMass": 257,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "actinoid c16 r10",
+        "type": "Attinoide",
+        "orbitals": [
+            2,
+            8,
+            31,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 101,
+        "symbol": "Md",
+        "name": "Mendelevio",
+        "atomicMass": 258,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "actinoid c17 r10",
+        "type": "Attinoide",
+        "orbitals": [
+            2,
+            8,
+            32,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 102,
+        "symbol": "No",
+        "name": "Nobelio",
+        "atomicMass": 259,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "actinoid c18 r10",
+        "type": "Attinoide",
+        "orbitals": [
+            3,
+            8,
+            32,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 103,
+        "symbol": "Lr",
+        "name": "Laurenzio",
+        "atomicMass": 266,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "transition-metal c4 r7",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            10,
+            32,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 104,
+        "symbol": "Rf",
+        "name": "Rutherfordio",
+        "atomicMass": 261,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "transition-metal c5 r7",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            11,
+            32,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 105,
+        "symbol": "Db",
+        "name": "Dubnio",
+        "atomicMass": 262,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "transition-metal c6 r7",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            12,
+            32,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 106,
+        "symbol": "Sg",
+        "name": "Seaborgio",
+        "atomicMass": 271,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "transition-metal c7 r7",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            13,
+            32,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 107,
+        "symbol": "Bh",
+        "name": "Bohrio",
+        "atomicMass": 264,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "transition-metal c8 r7",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            14,
+            32,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 108,
+        "symbol": "Hs",
+        "name": "Hassio",
+        "atomicMass": 269,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "transition-metal c9 r7",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            15,
+            32,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 109,
+        "symbol": "Mt",
+        "name": "Meitnerio",
+        "atomicMass": 278,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "transition-metal c10 r7",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            1,
+            17,
+            32,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 110,
+        "symbol": "Ds",
+        "name": "Darmstadtio",
+        "atomicMass": 271,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "transition-metal c11 r7",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            1,
+            18,
+            32,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 111,
+        "symbol": "Rg",
+        "name": "Roentgenio",
+        "atomicMass": 272,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "transition-metal c12 r7",
+        "type": "Metallo di transizione",
+        "orbitals": [
+            2,
+            18,
+            32,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 112,
+        "symbol": "Cn",
+        "name": "Copernicio",
+        "atomicMass": 285,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "post-transition-metal c13 r7",
+        "type": "Metallo di post-transizione",
+        "orbitals": [
+            3,
+            18,
+            32,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 113,
+        "symbol": "Nh",
+        "name": "Nihonio",
+        "atomicMass": 284,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "post-transition-metal c14 r7",
+        "type": "Metallo di post-transizione",
+        "orbitals": [
+            4,
+            18,
+            32,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 114,
+        "symbol": "Fl",
+        "name": "Flerovio",
+        "atomicMass": 289,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "post-transition-metal c15 r7",
+        "type": "Metallo di post-transizione",
+        "orbitals": [
+            5,
+            18,
+            32,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 115,
+        "symbol": "Mc",
+        "name": "Moscovio",
+        "atomicMass": 289,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "post-transition-metal c16 r7",
+        "type": "Metallo di post-transizione",
+        "orbitals": [
+            6,
+            18,
+            32,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 116,
+        "symbol": "Lv",
+        "name": "Livermorio",
+        "atomicMass": 293,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "other-nonmetal c17 r7",
+        "type": "Altro",
+        "orbitals": [
+            7,
+            18,
+            32,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 117,
+        "symbol": "Ts",
+        "name": "Tennesso",
+        "atomicMass": 310,
+        "atomicMassNotCertain": true
+    },
+    {
+        "classes": "noble-gas c18 r7",
+        "type": "Gas nobile",
+        "orbitals": [
+            8,
+            18,
+            32,
+            32,
+            18,
+            8,
+            2
+        ],
+        "atomicNumber": 118,
+        "symbol": "Og",
+        "name": "Oganesson",
+        "atomicMass": 314,
+        "atomicMassNotCertain": true
+    }
+]
