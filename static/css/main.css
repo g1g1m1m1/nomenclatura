@@ -23,14 +23,13 @@ h1{
 }
 
 .topnav {
-    background-color: #4abe5a;
+    background-color: #4f1010;
     overflow: hidden;
   }
   
-  /* Style the links inside the navigation bar */
 .topnav a {
     float: left;
-    color: #f2f2f2;
+    color: #ffdb00;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -42,12 +41,6 @@ h1{
     color: black;
   }
   
-  /* Add a color to the active/current link 
-.topnav a.active {
-    background-color: #4CAF50;
-    color: white;
-  }*/
-
 
 #send{
     background-color: #5380a8b5;
