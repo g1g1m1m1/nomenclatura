@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <title>Document</title>
+    <title>Chimica</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/static/css/main.css">
     <script src="{{ url_for('static', filename='js/main.js') }}"></script>
@@ -11,24 +11,42 @@
     <div class="topnav">
         <a onclick="nomenclatura()">Nomenclatura</a>
         <a onclick="reazione()">Reazioni</a>
-        <a>Help</a>
+        <a onclick="help()">Help</a>
       </div>
     <br>
     <br>
     <br>
     <br>
     <center>
-        <div id="nomenclatura">
-            <input type="text" placeholder="Inserisci la molecola" id="molecola"></input>
+        <div id="nomenclatura" style="display: block;">
+            <h1>Nomenclatura</h1>
             <br>
-            <br>
-            <input type="submit" onclick="send()" id="send" value="Nomencla"></input>
-            <br>
-            <br>
-            <input type="text" id="result" placeholder="Risultato" readonly></input>
+            <div id="input_section">
+                <input type="text" autocomplete="off" placeholder="Inserisci la molecola" id="molecola"></input>
+                <br>
+                <br>
+                <input type="submit" onclick="send()" id="send" value="Nomencla"></input>
+                <br>
+                <br>
+                <input type="text" id="result" placeholder="Risultato" readonly></input>
+            </div>
         </div>
-        <div id="reazione">
+        <div id="reazione" style="display: none;">
+            <h1>Reazioni</h1>
+            <p>In fase di sviluppo</p>
+        </div>
+        <div id="help" style="display: none;">
+            <h1>Regole di utilizzo</h1>
+            <table id="regole">
+                <caption><h2>Nomenclatura</h2></caption>
+                <tr><td>&#187;</td><td>Ricorda le lettere maiuscole degli atomi</td><td></td></tr>
+                <tr><td></td><td></td><td>Es. : Fe, non fe; O, non o</td></tr>
+                <tr><td>&#187;</td><td>Scrivi il numero di ossidazione preceduto da un _</td><td></td></tr>
+                <tr><td></td><td></td><td>Es. : Na_1 Cl_1</td></tr>
+                <tr><td>&#187;</td><td>Non semplificare i numeri di ossidazione</td><td></td></tr>
+                <tr><td></td><td></td><td>Es. : CO2 diventa C_2 O_4</td></tr>
 
+            </table>
         </div>
     </center>
 </body>

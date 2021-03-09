@@ -181,10 +181,15 @@ def main(value):
     #print(json.dumps(lista,indent=4))   
 
     if len(inp) == 2:
-        return binary_nomenclatura()
-    
+        try:
+            return binary_nomenclatura()
+        except:
+            return "error"    
     else: 
-        return "ok"
+        return "error"
 
 def start(x):
-    return main(x["molecola"])
+    if x["molecola"].split("_"):
+        return main(x["molecola"])
+    else:
+        return "error"

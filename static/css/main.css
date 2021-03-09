@@ -2,13 +2,52 @@ body{
     background-color: #37305e;
 }
 
-h1{
-    color:red;
+h2{
+    color:#533cc5;
 }
 
-#molecola{
-    background-color: red;    
+#help{
+    width: 300px;
 }
+
+#regole{
+    position: relative;
+    top: -50px;
+}
+
+#regole td{
+    color: #72adf5;
+}
+
+#regole tr{
+    width: 50%;
+    max-width: 400px;
+}
+
+#help p{
+    color:rgb(0, 195, 255);
+    font-size: 20px;
+}
+
+#input_section{
+    position: relative;
+    top: -50px;
+}
+
+h1{
+    position: relative;
+    top:-60px;
+    color:#af28bf;
+}
+
+#nomenclatura{
+    display: block;
+}
+
+#reazione{
+    display: none;
+}
+
 
 #result{
     outline:none;
@@ -81,9 +120,9 @@ h1{
 
 @media (min-device-width : 100px) and (max-device-width : 800px) {
     #molecola{
-        min-width: 200px;
+        min-width: 300px;
     }   
     #result{
-        min-width: 200px;
+        min-width: 300px;
     }
 }
